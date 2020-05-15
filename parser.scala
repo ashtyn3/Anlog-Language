@@ -6,7 +6,8 @@ import scala.collection.mutable.ListBuffer
 
 class parser()  {
   val filename = (readLine + ".nex")
-  var lines = new ListBuffer[String]() // Each line is the file is an element in the ListBuffer
+  var lines = new ListBuffer[String]()
+   // Each line is the file is an element in the ListBuffer
   def file_content (filename: String): Unit = {
     var numlines = Source.fromFile(filename).getLines.size
     while (numlines >= 1) {
@@ -14,13 +15,6 @@ class parser()  {
     numlines -= 1
     lines(0) = content
     // Takes in a file name and adds each line to a ListBuffer
-  }
-}
-  def parser_start (content: String): Unit = {
-    var index = 0
-    while (content.length() > index){
-      content(index)
-      index += 1
     }
   }
 }
