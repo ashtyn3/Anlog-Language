@@ -1,4 +1,3 @@
-package parser
 
 import scala.io.Source
 import scala.io.StdIn._
