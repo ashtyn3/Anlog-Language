@@ -1,5 +1,6 @@
 package parser
 
+import newToken
 import scala.io.Source
 import scala.io.StdIn._
 import scala.collection.mutable.ListBuffer
@@ -16,5 +17,8 @@ class parser()  {
     lines(0) = content
     // Takes in a file name and adds each line to a ListBuffer
     }
+  }
+  def lineToTokenize(line: String): Unit = {
+
   }
 }
