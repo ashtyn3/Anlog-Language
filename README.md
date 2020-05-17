@@ -4,19 +4,19 @@ Nex hopes to introduce new and useful paradigms to programmers and encourage the
 
 Features designed
 
-[x] Attribute-Declarations
-[x] Higher Order Types
-[x] Functions
-[x] Match Statements
-[x] Error Handling
-[x] Object Literal Functions
-[x] Modifiers
-[x] String Interpolation
-[x] Bonded Types
-[x] Attribute Literals
-[x] File I/O
-[x] Packages and Imports
-[x] Answer Sets
-[x] Clock and Time
-[]
-[]
+- [x] Attribute-Declarations
+- [x] Higher Order Types
+- [x] Functions
+- [x] Match Statements
+- [x] Error Handling
+- [x] Object Literal Functions
+- [x] Modifiers
+- [x] String Interpolation
+- [x] Bonded Types
+- [x] Attribute Literals
+- [x] File I/O
+- [x] Packages and Imports
+- [x] Answer Sets
+- [x] Clock and Time
+- []
+- []
