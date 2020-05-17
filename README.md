@@ -19,7 +19,7 @@ Features designed
 - [x] Answer Sets
 - [x] Clock and Time
 - [] Predicate Exception Hooks
-- [] Recursive Use Functions
+- [x] Recursive Use Functions
 
 Built in packages
 
