@@ -20,6 +20,7 @@ Features designed
 - [x] Clock and Time
 - [] Predicate Exception Hooks
 - [x] Recursive Use Functions
+- [] Debugging
 
 Built in packages
 
