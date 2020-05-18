@@ -27,3 +27,6 @@ Built in packages
 - [] PenetrationTester package
 - [] Encryption package
 - [] P2P package
+
+Thanks to:
+- adamw/scala-macro-debug
