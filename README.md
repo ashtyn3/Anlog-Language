@@ -4,6 +4,8 @@ Anlog hopes to introduce new and useful paradigms to programmers and encourage t
 
 Features designed
 
+- [x] Data Types
+- [x] Variables
 - [x] Attribute-Declarations
 - [x] Higher Order Types
 - [x] Functions
