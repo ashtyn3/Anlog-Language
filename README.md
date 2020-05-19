@@ -23,6 +23,7 @@ Features designed
 - [] Predicate Exception Hooks
 - [x] Recursive Use Functions
 - [] Debugging
+- [] Benchmarking
 
 Features Implemented
 
@@ -45,7 +46,7 @@ Features Implemented
 - [] Predicate Exception Hooks
 - [] Recursive Use Functions
 - [] Debugging
-
+- [] Benchmarking
 
 Built in packages
 
