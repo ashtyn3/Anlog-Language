@@ -1,5 +1,3 @@
-Anlog is a programming language written in scala.
-
 Anlog hopes to introduce new and useful paradigms to programmers and encourage them to use these paradigms to solve problems easier and faster. Anlog is inspired by scala, lambda prolog, prolog, and answer set prolog. Anlog also introduces several completely new concepts including what we call attribute declaration, bonded types, attribute literals, Strict Answer sets, and a revolutionary time function taking advantage of strict answer sets. Anlog is designed for penetration testing among other things
 
 Features designed
