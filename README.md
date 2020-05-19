@@ -31,3 +31,4 @@ Built in packages
 
 Thanks to:
 - adamw/scala-macro-debug
+- sirthias/parboiled2
