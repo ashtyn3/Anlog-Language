@@ -24,6 +24,29 @@ Features designed
 - [x] Recursive Use Functions
 - [] Debugging
 
+Features Implemented
+
+- [] Data Types
+- [] Variables
+- [] Attribute-Declarations
+- [] Higher Order Types
+- [] Functions
+- [] Match Statements
+- [] Error Handling
+- [] Object Literal Functions
+- [] Modifiers
+- [] String Interpolation
+- [] Bonded Types
+- [] Attribute Literals
+- [] File I/O
+- [] Packages and Imports
+- [] Answer Sets
+- [] Clock and Time
+- [] Predicate Exception Hooks
+- [] Recursive Use Functions
+- [] Debugging
+
+
 Built in packages
 
 - [] Math package
