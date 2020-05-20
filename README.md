@@ -6,6 +6,7 @@ Features designed
 
 - [x] Data Types
 - [x] Variables
+- [x] Declaring Variables
 - [x] Attribute-Declarations
 - [x] Higher Order Types
 - [x] Functions
@@ -22,7 +23,7 @@ Features designed
 - [x] Clock and Time
 - [x] Exception Hooks
 - [x] Recursive Use Functions
-- [] B-Hashes
+- [x] B-Hashes
 - [] Debugging
 - [] Benchmarking
 
@@ -30,6 +31,7 @@ Features Implemented
 
 - [] Data Types
 - [] Variables
+- [] Declaring Variables
 - [] Attribute-Declarations
 - [] Higher Order Types
 - [] Functions
