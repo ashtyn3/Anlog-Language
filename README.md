@@ -20,7 +20,7 @@ Features designed
 - [x] Packages and Imports
 - [x] Answer Sets
 - [x] Clock and Time
-- [] Predicate Exception Hooks
+- [x] Exception Hooks
 - [x] Recursive Use Functions
 - [] Debugging
 - [] Benchmarking
