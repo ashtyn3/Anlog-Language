@@ -44,8 +44,9 @@ Features Implemented
 - [] Packages and Imports
 - [] Answer Sets
 - [] Clock and Time
-- [] Predicate Exception Hooks
+- [] Exception Hooks
 - [] Recursive Use Functions
+- [] B-Hashes
 - [] Debugging
 - [] Benchmarking
 
