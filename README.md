@@ -22,6 +22,7 @@ Features designed
 - [x] Clock and Time
 - [x] Exception Hooks
 - [x] Recursive Use Functions
+- [] B-Hashes
 - [] Debugging
 - [] Benchmarking
 
