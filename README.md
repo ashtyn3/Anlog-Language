@@ -29,36 +29,36 @@ Features designed
 
 Features Implemented
 
-- [] Data Types
-- [] Variables
-- [] Declaring Variables
-- [] Attribute-Declarations
-- [] Higher Order Types
-- [] Functions
-- [] Match Statements
-- [] Error Handling
-- [] Object Literal Functions
-- [] Modifiers
-- [] String Interpolation
-- [] Bonded Types
-- [] Attribute Literals
-- [] File I/O
-- [] Packages and Imports
-- [] Answer Sets
-- [] Clock and Time
-- [] Exception Hooks
-- [] Recursive Use Functions
-- [] B-Hashes
-- [] Debugging
-- [] Benchmarking
+- [ ] Data Types
+- [ ] Variables
+- [ ] Declaring Variables
+- [ ] Attribute-Declarations
+- [ ] Higher Order Types
+- [ ] Functions
+- [ ] Match Statements
+- [ ] Error Handling
+- [ ] Object Literal Functions
+- [ ] Modifiers
+- [ ] String Interpolation
+- [ ] Bonded Types
+- [ ] Attribute Literals
+- [ ] File I/O
+- [ ] Packages and Imports
+- [ ] Answer Sets
+- [ ] Clock and Time
+- [ ] Exception Hooks
+- [ ] Recursive Use Functions
+- [ ] B-Hashes
+- [ ] Debugging
+- [ ] Benchmarking 
 
 Built in packages
 
-- [] Math package
-- [] PenetrationTester package
-- [] Encryption package
-- [] P2P package
-- [] DataStructs package
+- [ ] Math package
+- [ ] PenetrationTester package
+- [ ] Encryption package
+- [ ] P2P package
+- [ ] DataStructs package
 
 Thanks to:
 - adamw/scala-macro-debug
